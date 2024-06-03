@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IkHkZgMSF68=",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\LSPExample\\LSPExample\\LSPExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smcwilliams\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.5\\microsoft.aspnetcore.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\smcwilliams\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\smcwilliams\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.5\\microsoft.netcore.app.runtime.win-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
